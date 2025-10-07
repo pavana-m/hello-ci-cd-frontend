@@ -1,0 +1,9 @@
+{
+  "name": "hello-ci-cd-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/sum.test.js",
+    "build": "echo 'Nothing to build for static site'"
+  }
+}
